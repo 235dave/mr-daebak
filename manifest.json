@@ -1,0 +1,20 @@
+{
+  "short_name": "미스터대박",
+  "name": "미스터 대박 (Mr. Daebak)",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f59e0b",
+  "background_color": "#fafaf9"
+}

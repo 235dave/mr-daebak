@@ -1,0 +1,7 @@
+{
+  "name": "미스터 대박 (Mr. Daebak)",
+  "description": "음성 인식 및 AI 추천 기능을 갖춘 스마트 한식 주문 플랫폼",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
